@@ -8,7 +8,7 @@ A comprehensive full-stack application for managing doctor appointments with sep
 prescripto-full-stack/
 ├── admin/              # Admin dashboard for managing doctors and appointments
 ├── backend/            # Node.js/Express API server
-├── frontend/           # User-facing web application
+├── frontend/           # User-facing web application 
 └── README.md          # This file
 ```
 
